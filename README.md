@@ -1,0 +1,1 @@
+# js-clear-localstorage
